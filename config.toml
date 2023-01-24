@@ -16,10 +16,8 @@ enableRobotsTXT = true
   # Choose one of size-xs, size-s, size-m, size-l & size-xl. (Default: size-m)
   avatarSize = "size-l"
 
-  # Description to display on homepage
   description = "Sky above, sand below & peace within"
 
-  # Accent color is displayed when you hover over <a> tags
   accentColor = "#fdc70c"
 
   # You can use this to inject any HTML in the <head> tag.
@@ -37,6 +35,12 @@ enableRobotsTXT = true
   # Footer text
   footer = "Blog pour le cours LabVeilleTech"
 
+[[menu.main]]
+    identifier = "à propos"
+    pre = "<span data-feather='info'></span>"
+    url = "/a-propos"
+    weight = 1
+
 [menu]
   [[menu.main]]
     # Unique identifier for a menu item
@@ -47,25 +51,19 @@ enableRobotsTXT = true
     # You can add extra information before the name (HTML format is supported), such as icons
     pre = "<span data-feather='book'></span>"
 
-    # You can add extra information after the name (HTML format is supported), such as icons
-    post = ""
-
-    # Display name
-    name = ""
-
     # Weights are used to determine the ordering
-    weight = 1
+    weight = 2
 
   [[menu.main]]
     identifier = "tags"
     pre = "<span data-feather='bookmark'></span>"
     url = "/tags/"
-    weight = 2
+    weight = 3
     
   [[menu.main]]
     identifier = "github"
     url = "https://github.com/TanyaKemmPere"
-    weight = 3
+    weight = 4
     
     # We use feather-icons: https://feathericons.com/
     pre = "<span data-feather='github'></span>"
