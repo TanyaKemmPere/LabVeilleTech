@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://tanyakemmpere.github.io/"
 defaultContentLanguage = "en"
 languageCode = "en"
 
@@ -9,6 +9,34 @@ theme = "gokarna"
 # Automatically generate robots.txt
 enableRobotsTXT = true
 
+[params]
+  # URL for the avatar on homepage
+  avatarURL = "images/avatar.jpg"
+
+  # Choose one of size-xs, size-s, size-m, size-l & size-xl. (Default: size-m)
+  avatarSize = "size-l"
+
+  # Description to display on homepage
+  description = "Sky above, sand below & peace within"
+
+  # Accent color is displayed when you hover over <a> tags
+  accentColor = "#fdc70c"
+
+  # You can use this to inject any HTML in the <head> tag.
+  # Ideal usecase for this is to import custom js/css or add your analytics snippet
+  customHeadHTML = ""
+
+  # Keywords relevant for SEO
+  metaKeywords = ["blog", "gokarna", "hugo", "LabVeilleTech"]
+
+  # If you want to display posts on the homepage, the options are
+  # "popular" (order posts by weight), "recent" (order posts by date)
+  # or "" (do not display, default option)
+  showPostsOnHomePage = "recent"
+
+  # Footer text
+  footer = "Blog pour le cours LabVeilleTech"
+
 [menu]
   [[menu.main]]
     # Unique identifier for a menu item
@@ -17,26 +45,26 @@ enableRobotsTXT = true
     url = "/posts/"
     
     # You can add extra information before the name (HTML format is supported), such as icons
-    pre = ""
+    pre = "<span data-feather='book'></span>"
 
     # You can add extra information after the name (HTML format is supported), such as icons
     post = ""
 
     # Display name
-    name = "Posts"
+    name = ""
 
     # Weights are used to determine the ordering
     weight = 1
 
   [[menu.main]]
     identifier = "tags"
-    name = "Tags"
+    pre = "<span data-feather='bookmark'></span>"
     url = "/tags/"
     weight = 2
     
   [[menu.main]]
     identifier = "github"
-    url = "https://github.com"
+    url = "https://github.com/TanyaKemmPere"
     weight = 3
     
     # We use feather-icons: https://feathericons.com/
