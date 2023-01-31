@@ -3,7 +3,7 @@ title: "Tendances marketing pour 2023"
 date: 2023-01-31
 description: "Être à l'affut des tendances"
 type: "post"
-tags: ["mes sources", "blog"]
+tags: ["tendances", "blog"]
 ---
 Il est très important d'être à l'affut des tendances si on veut apporter une plus value à notre vie proefessionnelle.
 
