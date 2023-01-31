@@ -4,7 +4,7 @@ date: 2023-01-24
 description: "Comment faire face à l'incertitude dans un monde en constante évolution"
 image: "https://main--gokarna-hugo.netlify.app/images/avatar.webp"
 type: "post"
-tags: ["TedTalk", "stratégie de communication", "blog", "histoire", "logo"]
+tags: ["TedTalk", "stratégie de communication", "histoire", "logo", "blog"]
 ---
 Le monde d'aujourd'hui est en constante évolution et nous sommes souvent confrontés à de l'incertitude.
 

@@ -4,7 +4,7 @@ date: 2023-01-24
 description: "A blog post"
 image: "https://cdn.thebrandingjournal.com/wp-content/uploads/2015/10/what-is-branding.jpg"
 type: "post"
-tags: ["blog", "branding"]
+tags: ["branding", "blog"]
 ---
 ![Branding](https://cdn.thebrandingjournal.com/wp-content/uploads/2015/10/what-is-branding.jpg "Main qui tient une bouteille d'eau")
 

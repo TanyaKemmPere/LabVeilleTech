@@ -4,7 +4,7 @@ date: 2023-01-24
 description: "La meilleure pub de tous les temps?"
 image: "https://upload.wikimedia.org/wikipedia/en/2/2b/Think_Small.jpg"
 type: "post"
-tags: ["publicité", "histoire", "voiture"]
+tags: ["publicité", "histoire", "voiture", "blog"]
 ---
 ![Think Small](https://upload.wikimedia.org/wikipedia/en/2/2b/Think_Small.jpg "Affiche 'Think small.' de Volkswagen")
 
