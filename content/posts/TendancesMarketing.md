@@ -1,5 +1,5 @@
 ---
-title: "Mon système pour rester in :)"
+title: "Tendances marketing pour 2023"
 date: 2023-01-31
 description: "Être à l'affut des tendances"
 type: "post"
